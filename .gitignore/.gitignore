@@ -1,0 +1,8 @@
+#ignore binary files
+
+
+#ignore build artifacts
+/out/
+/target/
+/bin/
+/obj/
